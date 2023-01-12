@@ -9,7 +9,9 @@ A ideia do Challenge é simular uma experiência de trabalho.
 
 A <b>Alura Cash</b> é um banco digital internacional ficticio. A diretoria do banco convocou a gente, a equipe de dados, para uma reunião para informar que, recorrentemente, estão surgindo pessoas inadimplentes após a liberação de créditos.
 
-Por conta disso, foi solicitada uma solução para diminuir as perdas financeiras geradas por pessoas mutuárias que não quitam suas dívidas. Nos foi informado também que teríamos o prazo de **um mês** para encontrar essa solução e apresentá-la à diretoria financeira. Sendo assim, solicitamos um conjunto de dados contendo as informações de clientes, da solicitação de empréstimo, do histórico de crédito, bem como se a pessoa mutuária é inadimplente ou não. Decidimos dividir as tarefas em semanas, na semana 1 faremos um tratamento inicial nos dados usando SQL, na semana 2 utilizando o Python criaremos um modelo para prever a inadiplência e na semana 3 e 4 
+Por conta disso, foi solicitada uma solução para diminuir as perdas financeiras geradas por pessoas mutuárias que não quitam suas dívidas. Nos foi informado também que teríamos o prazo de **um mês** para encontrar essa solução e apresentá-la à diretoria financeira. Sendo assim, solicitamos um conjunto de dados contendo as informações de clientes, da solicitação de empréstimo, do histórico de crédito, bem como se a pessoa mutuária é inadimplente ou não. 
+
+Decidimos dividir as tarefas em semanas, na semana 1 faremos um tratamento inicial nos dados usando SQL, na semana 2 utilizando o Python criaremos um modelo para prever a inadiplência e na semana 3 e 4 
 criaremos visualizações dos resultados no Power BI.
 
 ## Semana 1 
