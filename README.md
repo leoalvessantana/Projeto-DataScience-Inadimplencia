@@ -20,6 +20,25 @@ O banco Alura Cash nos forneceu os dados em **dumps**. Utilizando o MySQL Workbe
 
 Unimos as tabelas pelos valores de IDs que eram correspondentes entre si, deixando todos os dados em uma única tabela. 
 
-Decidimos não eliminar os valores nulos, pois podem ser importantes para o banco. E os valores em inglês vamos traduzir utilizando o python mesmo.
+Decidimos não eliminar os valores nulos, pois podem ser importantes para o banco. E os valores em inglês deixamos para traduzir na semana 2 mesmo utilizando o Python.
 
-Exportamos a tabela com os dados únidos para o formato **csv** e vamos utiliza-lo nas próximas semanas.
+Por fim exportamos a tabela com os dados únidos para o formato **csv**.
+
+
+## Semana 2
+
+Na semana 2 buscamos construir um modelo de  Machile learning que pudesse predizer de acordo com os dados bancários de cada cliente, se essa pessoa pode ou não se tornar inadimplente. Dessa vez, utilizamos o Python para desenvolver nosso modelo.
+
+
+Inicialmente, com os dados já pré-tratados com SQL da semana 1, fizemos mais alguns tratamentos, como traduzir o nome das colunas, excluir dados nulos e outliers e normalizar os dados. 
+
+Em seguida partimos para o treinamento dos dados, percebemos que a variavel alvo "inadimplencia" se encontrava desbalanceada, então treinamos os dados utilizando duas técnicas de balanceamento, uma de Oversampling e outra de Undersampling. Para treinar os dados utilizamos dois diferentes modelos de Machile learning (Árvore de Decisão e Regressão Logística). Concluimos que a Regressão Logística sobre a tecnica de Undersampling foi o modelo que melhor se adéquo aos nossos objetivos.
+
+Ao final exportamos o modelo para o arquivo modelo.pkl que será utilizado na API. ( Assim como os transformadores de dados.)
+
+
+## Semana 3 e 4
+
+Em processo ...
+
+
