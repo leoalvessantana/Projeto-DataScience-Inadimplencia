@@ -1,4 +1,4 @@
-# Challenge de Data Science
+# Prevendo clientes inadimplentes 
 
 Esse é meu projeto do Challenge de Data Science promovido pela Alura, uma plataforma online de cursos de tecnologia.
 A ideia do Challenge é simular uma experiência de trabalho. 
